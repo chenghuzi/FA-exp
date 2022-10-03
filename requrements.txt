@@ -1,0 +1,9 @@
+ipdb
+click
+numpy
+matplotlib
+scikit-learn
+torch
+torchvision
+tqdm
+dill
